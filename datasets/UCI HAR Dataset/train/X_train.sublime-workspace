@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"node",
+				"node_name"
+			],
+			[
+				"each",
+				"each_slice	(Ch2SelfStudy.rb)"
+			],
+			[
+				"v",
+				"visit〔function〕"
+			],
+			[
+				"si",
+				"sixteen_numbers"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"to",
+				"to_f"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"se",
+				"self	(CH2Tree.rb)"
+			],
+			[
+				"vi",
+				"visit_all〔function〕"
+			],
+			[
+				"no",
+				"node_name"
+			],
+			[
+				"superc",
+				"4.class.superclass"
+			],
+			[
+				"foun",
+				"foundNumber"
+			],
+			[
+				"fou",
+				"foundNumber"
+			],
+			[
+				"nu",
+				"numberToGuess"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"eac",
+				"each	(Algos revision)"
+			],
+			[
+				"as",
+				"aside	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "octave",
+		"selected_items":
+		[
+			[
+				"octave",
+				"SublimeREPL: Octave"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set syntax ",
+				"Set Syntax: OCaml"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tjaskula/Documents/GitHub/Blog/fake.sh",
+		"/Users/tjaskula/Documents/GitHub/datasciencecoursera/Assignment - Getting and Cleaning Data Course Project/datasets/UCI HAR Dataset/train/subject_train.txt",
+		"/Users/tjaskula/Documents/GitHub/datasciencecoursera/Assignment - Getting and Cleaning Data Course Project/datasets/UCI HAR Dataset/test/subject_test.txt",
+		"/Users/tjaskula/Documents/GitHub/datasciencecoursera/Assignment - Getting and Cleaning Data Course Project/datasets/UCI HAR Dataset/train/X_train.txt",
+		"/Users/tjaskula/Documents/GitHub/datasciencecoursera/HelloWorld.md",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/ex2_reg.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/plotDecisionBoundary.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 2/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/predict.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/mapFeature.m",
+		"/Users/tjaskula/Documents/GitHub/Coursera/README.md",
+		"/Users/tjaskula/Documents/GitHub/Coursera/Machine Learning/Week 3/machine-learning-ex2/ex2/plotData.m",
+		"/Users/tjaskula/Dropbox/Learning/Coursera/Practical Machine Learning/Week 2/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/tjaskula/Dropbox/Learning/Coursera/Practical Machine Learning/Week 2/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/tjaskula/Dropbox/Learning/Coursera/Practical Machine Learning/Week 2/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/tjaskula/Dropbox/Learning/Coursera/Practical Machine Learning/Week 2/machine-learning-ex1/ex1/plotData.m",
+		"/Users/tjaskula/Documents/GitHub/LangLearning/Ruby/CH2Tree.rb",
+		"/Users/tjaskula/Documents/GitHub/LangLearning/Ruby/CH2ToFile.rb",
+		"/Users/tjaskula/Documents/GitHub/LangLearning/Ruby/object_70129510324780.txt",
+		"/Users/tjaskula/Documents/GitHub/LangLearning/Ruby/learningRuby.sublime-project",
+		"/Users/tjaskula/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/tjaskula/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/tjaskula/Documents/GitHub/LangLearning/Ruby/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/tjaskula/Documents/GitHub/LangLearning/Ruby/test.rb",
+		"/Users/tjaskula/Dropbox/Learning/Algos revision",
+		"/Users/tjaskula/Dropbox/Learning/C#Revision.txt",
+		"/Users/tjaskula/Dropbox/Développement/BBL/Vocabulary",
+		"/Users/tjaskula/Dropbox/développement/Blog support/Blogs post to write.md",
+		"/Users/tjaskula/Dropbox/Développement/Open Source project ideas",
+		"/Users/tjaskula/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/tjaskula/Documents/GitHub/Blog/source/notes/index.md",
+		"/Users/tjaskula/Documents/GitHub/Blog/source/notes/csharp.md",
+		"/Users/tjaskula/Documents/GitHub/Blog/fsblog.fsx",
+		"/Users/tjaskula/Documents/GitHub/Blog/packages/FAKE/tools/FAKE.exe.config",
+		"/Users/tjaskula/Documents/GitHub/Blog/fake",
+		"/Users/tjaskula/Documents/GitHub/Blog/fake.cmd",
+		"/Users/tjaskula/Dropbox/Learning/Machine learning examples to explore",
+		"/Users/tjaskula/Dropbox/Développement/Conferences/CFP.md",
+		"/Volumes/Stockage/Install/Key - Windows 10 Technical Preview for Enterprise",
+		"/Volumes/Stockage/Install/Key - Visual Studio Enterprise 2015 (x86 and x64)",
+		"/Users/tjaskula/Documents/RemoveMono.sh",
+		"/Users/tjaskula/Dropbox/EBooks/Books to buy",
+		"/Users/tjaskula/Dropbox/Compose IT/Projets/RocketCv/Archiwum/README",
+		"/Users/tjaskula/Dropbox/Développement/Conferences/Functional programming in F#",
+		"/Users/tjaskula/Dropbox/Développement/Conferences/Tomasz JASKULA bio",
+		"/Users/tjaskula/Dropbox/Développement/Conferences/Talks",
+		"/Volumes/C/Users/tjaskula/Documents/GitHub/Talks/README.md",
+		"/Volumes/C/Users/tjaskula/Documents/GitHub/Rosalind/README.md",
+		"/Users/tjaskula/Documents/GitHub/BrownBagLunch/js/baggers.js",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/slides/index.md",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/build.fsx",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/build.sh",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/slides/FsharpSNR.md",
+		"/Users/tjaskula/Dropbox/Compose IT/Comptabilité/#### Questions comptable",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/output/README.MD",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/release.fsx",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/paket.lock",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/package.json",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/FsReveal.nuspec",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/paket.dependencies",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/fsreveal/fsreveal.fsx",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/paket.version",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/css/theme/black.css",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/css/theme/white.css",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/css/theme/blood.css",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/css/theme/night.css",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FsReveal/reveal.js/css/reveal.css",
+		"/Users/tjaskula/Documents/GitHub/FsReveal/packages/FSharp.Formatting/styles/style.css",
+		"/Volumes/C/Users/tjaskula/Documents/GitHub/FsReveal/slides/index.md",
+		"/Volumes/C/Users/tjaskula/Documents/GitHub/Blog/source/blog/2015/01-12-welcome-to-my-new-blog.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"response",
+			"else",
+			"foundNumber",
+			"ruby",
+			"puts",
+			"provider",
+			"type pr",
+			"Validation",
+			"used",
+			"http",
+			"SIGNAT",
+			"registerRepresentation",
+			"    -- OOP with C#",
+			"             "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rep"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "X_train.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
